@@ -1,5 +1,7 @@
 # k8s-automate
 This script will automate k8s HA installation using kubeadm.
+
+
 Prereqisiste : password less authentication.
 Run this script by -- 
 chmod +x final.sh
